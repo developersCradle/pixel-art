@@ -1,10 +1,10 @@
 <p align="center">
-    <img id="studying" src="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption.png" style="width:900px;height:140px;">
+    <img id="studying" src="Pixel_Art_Related_Courses_And_Material_Caption.png" style="width:900px;height:140px;">
     <text>ADd here  <b>The topci</b>, <b>Optimization</b> and <b>Algorithms</b> related topics!</text>
 </p>
 
 <p align="center">
-   <img src="Pixel_Art_Courses_Caption.png" alt="Pixel Art Graphic" width="500" height="20"/>
+   <img src="Pixel_Art_Courses_Caption.png" alt="Pixel Art Graphic" width="650" height="250"/>
 </p>
 
 - For these courses one should configure **GIT** for handle projects.
@@ -50,7 +50,24 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [x] [Section 01](#) - Add some.
+- [ ] [Section 01](#) - Getting started.
+- [ ] [Section 02](#) - Lines and Shapes [B].
+- [ ] [Section 03](#) - Shading and lighting [B].
+- [ ] [Section 04](#) - Colours and textures [B].
+- [ ] [Section 05](#) - Drawing simple objects [B].
+- [ ] [Section 06](#) - Tiles [B].
+- [ ] [Section 07](#) - Backgrounds [B].
+- [ ] [Section 08](#) - Basic characters [B].
+- [ ] [Section 09](#) - Simple animation [B].
+- [ ] [Section 10](#) - Platformer View [I].
+- [ ] [Section 11](#) - Top Down View [I].
+- [ ] [Section 12](#) - RPG View [I].
+- [ ] [Section 13](#) - Isometric View [I].
+- [ ] [Section 14](#) - Intermediate Shading [I].
+- [ ] [Section 15](#) - Materials [I].
+- [ ] [Section 16](#) - Checkpoint before Advanced Lessons.
+- [ ] [Section 17](#) - 12 Principles of Animation - with Game Design explanations.
+
 
 #### Additional stuff.
 
