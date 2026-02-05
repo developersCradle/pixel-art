@@ -1,6 +1,6 @@
 <p align="center">
     <img id="studying" src="Pixel_Art_Related_Courses_And_Material_Caption.png" style="width:900px;height:140px;">
-    <text>ADd here  <b>The topci</b>, <b>Optimization</b> and <b>Algorithms</b> related topics!</text>
+    <text> This will contains pixel art related topics!</text>
 </p>
 
 <p align="center">
@@ -32,8 +32,6 @@ Contains my own notes with some course material to enforce learning experience.
 
 [Homepage](https://www.1bitstudio.com/). 
 
-
-
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:.
 
 <!-- 
@@ -44,7 +42,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 <p id="logos" align="center">
     certficate goes here
 </p>
-
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
@@ -80,3 +77,65 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Some here](#).
     * *Coding Exercise*:
         * [Coding Exercise 01 here](#).
+
+
+
+# Pixel Art Environments: 2D Environment Design & Animation.
+
+<p align="center">
+    <img id="Performance Optimization" src="Pixel_Art_Environments_2D_Environment_Design_Animation_Description.PNG" style=" width: 380px;">
+</p>
+
+All course material from *Pixel Art Environments: 2D Environment Design & Animation* by **Reece Geofroy** and **gamedev.tv**. 
+
+> Add here some story!<br><br>
+add story to take part on the game race form the gamedev
+~ *DevelopersCradle*
+
+Contains my own notes with some course material to enforce learning experience. Art cannot taught by reading books or material, if one feels inspired check the course online!
+
+[The course at Udemy](https://www.udemy.com/courses/search/?src=ukw&q=Pixel+Art+Environments%3A+2D+Environment+Design+%26+Animation.). 
+- At the time, this was on the Udemy. Just search it.
+
+[GameDev](https://gamedev.tv/courses/pixel-art-environments). 
+
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:.
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<p id="logos" align="center">
+    certficate goes here
+</p>
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [ ] [Section 01](#) - Introduction & Setup.
+- [ ] [Section 02](#) - Creating Tilesets & Assets.
+- [ ] [Section 03](#) - Designing Backgrounds.
+- [ ] [Section 04](#) - Polishing Environments.
+- [ ] [Section 05](#) - Continuing Your GameDev Journey.
+
+#### Additional stuff.
+
+- [ ] Add some.
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Coding Exercise 01 here](#).
+
+
+
+
+
+
+
+
