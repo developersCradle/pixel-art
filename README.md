@@ -26,11 +26,13 @@ All course material from *Pixel Art Master Course - Beginner to Professional/Fre
 > Add here some stoy!<br><br>
 ~ *DevelopersCradle*
 
-Contains my own notes with some course material to enforce learning experience.
+Contains my own visual notes, along with selected course material to reinforce the learning experience. ✍️
+Art cannot taught by reading books or material, if one feels inspired check the course online!
+
 
 [The course at Udemy](https://www.udemy.com/course/pixel-art-master-course/). 
 
-[Homepage](https://www.1bitstudio.com/). 
+[Homepage of the maker](https://www.1bitstudio.com/). 
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:.
 
@@ -65,7 +67,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] [Section 16](#) - Checkpoint before Advanced Lessons.
 - [ ] [Section 17](#) - 12 Principles of Animation - with Game Design explanations.
 
-
 #### Additional stuff.
 
 - [ ] Add some.
@@ -78,9 +79,11 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     * *Coding Exercise*:
         * [Coding Exercise 01 here](#).
 
+<p align="center">
+    <img src="Pixel_Art_Environments_2D_Environment_Design_Animation_Caption.PNG" alt="Pixel Art Environments 2D Environment Design Animation Caption" style="width:1600px;height:110px;" />
+</p>
 
 
-# Pixel Art Environments: 2D Environment Design & Animation.
 
 <p align="center">
     <img id="Performance Optimization" src="Pixel_Art_Environments_2D_Environment_Design_Animation_Description.PNG" style=" width: 380px;">
@@ -92,7 +95,8 @@ All course material from *Pixel Art Environments: 2D Environment Design & Animat
 add story to take part on the game race form the gamedev
 ~ *DevelopersCradle*
 
-Contains my own notes with some course material to enforce learning experience. Art cannot taught by reading books or material, if one feels inspired check the course online!
+Contains my own notes with some course material to enforce learning experience.
+Art cannot taught by reading books or material, if one feels inspired check the course online!
 
 [The course at Udemy](https://www.udemy.com/courses/search/?src=ukw&q=Pixel+Art+Environments%3A+2D+Environment+Design+%26+Animation.). 
 - At the time, this was on the Udemy. Just search it.
@@ -122,14 +126,22 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Additional stuff.
 
-- [ ] Add some.
+- Additional material for chapter: `Lighting & Colors`
+    - [ ] Pixel Art (Color Tutorial) [Here](https://www.youtube.com/watch?v=PNtMAxYaGyg).
 
-#### The Quizzes and Labs.
+#### The Exercises.
 
 * **Section 01**:
     * *Painting Exercise*:
-        * [Painting Exercise 01 - My First poppy guy](#).
-
+        * [Painting Exercise 01 - My First poopy guy](#).
+* **Section 02**:
+    * *Painting Exercise*:
+* **Section 03**:
+    * *Painting Exercise*:
+* **Section 04**:
+    * *Painting Exercise*:
+* **Section 05**:
+    * *Painting Exercise*:
 
 
 

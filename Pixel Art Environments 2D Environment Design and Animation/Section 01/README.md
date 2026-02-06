@@ -155,7 +155,7 @@ Draw A Simple Character.
     <img src="Adding_New_Frame_For_The_Animation_Tool.PNG" alt="Pixel tool" width="300" />
 </div>
 
-1. Press the small number.
+1. Press the small number. This is **Animation Frame**!
     - We can add the **New Empty Frame** to the animation tool!
 
 <div align="center">
@@ -173,6 +173,20 @@ Draw A Simple Character.
 1. **Beginners** usually changes the colors based on the *"hand"* felling!
     - You can see here **three** changes on the **color palette**!
         - Every change will a little bit darker!
+
+> [!NOTE]
+> Usually the program has some sort of this **color selection tool**!
+
+<div align="center">
+    <img src="Color_Selection_Tools_In_General_Softwares.PNG" alt="Pixel tool" width="500" />
+</div>
+
+1. **HUE**, basically *What color it is?*
+2. **SATURATION**, basically *How strong is the color?*
+    - **Low** → `red color` + `low saturation` = `weak red color`!
+    - **High** → `red color` + `high saturation` = `weak red color`!
+3. **BRIGHTNESS**
+
 
 <div align="center">
     <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="300" height="350" />
