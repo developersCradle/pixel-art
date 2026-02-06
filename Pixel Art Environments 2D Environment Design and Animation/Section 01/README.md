@@ -106,8 +106,102 @@
     <img src="Exercise_01_First_Drawing.PNG" alt="Pixel tool" width="600"/>
 </div>
 
+<details>
+<summary id="Assigment 01
+" open="true" alt="Pixel tool"> <b> First assigment - my answer! </b> </summary>
+
+```yaml
+Task as text:
+
+Draw A Simple Character.
+• Create a basic character sprite.  
+• Export your sprite.
+• Share your work with the discussions.
+```
+
+<div align="center">
+    <img src="My_Super_Booby_First_Character.png" alt="Pixel tool" width="200"/>
+</div>
+
+</details>
 
 # Lighting & Colors.
+
+<div align="center">
+    <img src="Next_Learning_Thing_Lightning_And_Colors.PNG" alt="Pixel tool" width="500"/>
+</div>
+
+
+1. We will be making **own color**, with the wheel. How to create own shading!
+
+- We will be trying to give **depth** using shading!
+
+<div align="center">
+    <img src="LibreSprite_More_Tools.PNG" alt="Pixel tool" width="200" height="400"/>
+</div>
+
+1. **Rectangle tool** `U`. We can repeat this key, we can transfer between **filled rectangle** and **rectangle**!
+
+<div align="center">
+    <img src="We_Are_Using_Rectangle_Tool.gif" alt="Pixel tool" width="300" />
+</div>
+
+1. We are using the `U` to switch here between, **filled rectangle** and **rectangle**.
+2. We are using **filled rectangle**!
+
+- Furthermore, we can add **New Empty Frame** as following.
+
+<div align="center">
+    <img src="Adding_New_Frame_For_The_Animation_Tool.PNG" alt="Pixel tool" width="300" />
+</div>
+
+1. Press the small number.
+    - We can add the **New Empty Frame** to the animation tool!
+
+<div align="center">
+    <img src="Creating_Rectangle_And_There_Is_Dept_Using_Shades.PNG" alt="Pixel tool" width="300" />
+</div>
+
+1. We can achieve the **dept** in the picture using the shades!
+
+- Example drawing **three** layers, by changing the colors.
+
+<div align="center">
+    <img src="We_Are_Choosing_The_Colors_From_Color_Palette.gif" alt="Pixel tool" width="300" />
+</div>
+
+1. **Beginners** usually changes the colors based on the *"hand"* felling!
+    - You can see here **three** changes on the **color palette**!
+        - Every change will a little bit darker!
+
+<div align="center">
+    <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="300" height="350" />
+</div>
+
+1. We can use p
+
+<div align="center">
+    <img src="Exercise_02_Hue_Shifted_Color.PNG" alt="Pixel tool" width="600"/>
+</div>
+
+<details>
+<summary id="Assigment 02
+" open="true" alt="Pixel tool"> <b> Second assigment - my answer! </b> </summary>
+
+```yaml
+Task as text:
+
+- todo add as text here.
+
+```
+
+<div align="center">
+    <img src="#" alt="Pixel tool" width="200"/>
+</div>
+
+</details>
+
+
 
 # Exporting Sprite Sheets.
 

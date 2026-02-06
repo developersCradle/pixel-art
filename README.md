@@ -114,11 +114,11 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Introduction & Setup.
-- [ ] [Section 02](#) - Creating Tilesets & Assets.
-- [ ] [Section 03](#) - Designing Backgrounds.
-- [ ] [Section 04](#) - Polishing Environments.
-- [ ] [Section 05](#) - Continuing Your GameDev Journey.
+- [ ] [Section 01](https://github.com/developersCradle/pixel-art/tree/main/Pixel%20Art%20Environments%202D%20Environment%20Design%20and%20Animation/Section%2001#section-01-introduction--setup) - Introduction & Setup.
+- [ ] [Section 02](https://github.com/developersCradle/pixel-art/tree/main/Pixel%20Art%20Environments%202D%20Environment%20Design%20and%20Animation/Section%2002#section-02-creating-tilesets--assets) - Creating Tilesets & Assets.
+- [ ] [Section 03](https://github.com/developersCradle/pixel-art/tree/main/Pixel%20Art%20Environments%202D%20Environment%20Design%20and%20Animation/Section%2003#section-03-designing-backgrounds) - Designing Backgrounds.
+- [ ] [Section 04](https://github.com/developersCradle/pixel-art/tree/main/Pixel%20Art%20Environments%202D%20Environment%20Design%20and%20Animation/Section%2004#section-04-polishing-environments) - Polishing Environments.
+- [ ] [Section 05](https://github.com/developersCradle/pixel-art/tree/main/Pixel%20Art%20Environments%202D%20Environment%20Design%20and%20Animation/Section%2005#section-05-continuing-your-gamedev-journey) - Continuing Your GameDev Journey.
 
 #### Additional stuff.
 
@@ -127,10 +127,8 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 #### The Quizzes and Labs.
 
 * **Section 01**:
-    * *Quiz*:
-        * [Some here](#).
-    * *Coding Exercise*:
-        * [Coding Exercise 01 here](#).
+    * *Painting Exercise*:
+        * [Painting Exercise 01 - My First poppy guy](#).
 
 
 
