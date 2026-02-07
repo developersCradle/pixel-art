@@ -6,6 +6,12 @@
 
 # Welcome To The Course.
 
+<div align="center">
+    <img src="Welcome_To_The_Course.PNG" alt="Pixel tool" width="600"/>
+</div>
+
+1. Oss, mister **Reece Geofroy**.
+2. We will be using **LibreSprite**, Basics of lightning and colors and import, export sprites and most common two main perspective how pixel art is drawn.
 # Download Software.
 
 - We will be using [LibreSprite](https://libresprite.github.io/#!/downloads).
@@ -25,13 +31,12 @@
 
 - Join the [Facebook groups](https://www.facebook.com/groups/gameartcourse).
 
-
 - Todo do this to end!
 
 # Getting Started with Libresprite.
 
-> [!TIP]
-> In this course we will be using **16x16** for **canvas**.
+> [!NOTE]
+> For this exercise we will be using **16x16** for **canvas**.
 
 <div align="center">
     <img src="New_Sprite_16px_16px.PNG" alt="Pixel tool" width="300"/>
@@ -40,14 +45,14 @@
 1. We will be having `16px` and `16px` for the canvas!
 
 <div align="center">
-    <img src="LibreSprite_Some_Tools.gif" alt="Pixel tool" width="400"/>
+    <img src="LibreSprite_Some_Tools.gif" alt="Pixel tool" width="500"/>
 </div>
 
 1. This can be opened using `tab`. This is called **timeline**! 
 2. This is **preview** tool, with the button `1:1`, its **projection** of canvas into smaller screen!
 
 <div align="center">
-    <img src="Preview_In_Action.gif" alt="Pixel tool" width="400"/>
+    <img src="Preview_In_Action.gif" alt="Pixel tool" width="500"/>
 </div>
 
 1. Main purpose of the **Preview** is to reflect the changes from canvas!
@@ -59,7 +64,7 @@
 1. **Selection tool**, hotkey `M`.
 
 <div align="center">
-    <img src="Using_Selection_Tool.gif" alt="Pixel tool" width="300"/>
+    <img src="Using_Selection_Tool.gif" alt="Pixel tool" width="400"/>
 </div>
 
 - `1.` We need to select the area!
@@ -69,7 +74,7 @@
 2. **Pencil tool**, hotkey `B`.
 
 <div align="center">
-    <img src="Using_Pencil_Tool.gif" alt="Pixel tool" width="300"/>
+    <img src="Using_Pencil_Tool.gif" alt="Pixel tool" width="400"/>
 </div>
 
 - `1.` We are using **pencil too** to draw into canvas!
@@ -78,7 +83,7 @@
 3. **Eraser tool**, hotkey `E`.
 
 <div align="center">
-    <img src="Using_Erase_Tool.gif" alt="Pixel tool" width="300"/>
+    <img src="Using_Erase_Tool.gif" alt="Pixel tool" width="400"/>
 </div>
 
 - We can **erase** things!
@@ -88,13 +93,13 @@
 - Next, how things should be saved:
 
 <div align="center">
-    <img src="Saving_As_Usable_Format.PNG" alt="Pixel tool" width="300"/>
+    <img src="Saving_As_Usable_Format.PNG" alt="Pixel tool" width="400"/>
 </div>
 
 1. One should save it as **ase sprite**, to open it as it is. This is for editing purposes!
 
 <div align="center">
-    <img src="We_Are_Exporting_The_Image_In_LibreSprite.gif" alt="Pixel tool" width="300"/>
+    <img src="We_Are_Exporting_The_Image_In_LibreSprite.gif" alt="Pixel tool" width="400"/>
 </div>
 
 1. First we **scale** the sprite, since pixel art is **tiny**. `Sprite` → `Sprite Size`.
@@ -107,8 +112,7 @@
 </div>
 
 <details>
-<summary id="Assigment 01
-" open="true" alt="Pixel tool"> <b> First assigment - my answer! </b> </summary>
+<summary id="assigment-01" open="true" alt="Pixel tool"> <b> First assigment - my answer! </b> </summary>
 
 ```yaml
 Task as text:
@@ -174,19 +178,54 @@ Draw A Simple Character.
     - You can see here **three** changes on the **color palette**!
         - Every change will a little bit darker!
 
+- Next we will be exploring the concept of **Hue shifting**!
+
+
+<p align="center">
+    <div align="center">
+        <img src="Hue_Shifting.png" alt="Pixel tool" width="300" />
+    </div>
+    <p align="center">
+        A <b>color technique</b> where, "<i>one changes the hue as values change, instead of just making color lighter and darker, can change <b>values</b> in the <b>color wheel</b></i>. <br> <br>
+        This makes the picture more <b>vibrant</b> look and better appeal!
+    </p>
+</p>
+
+> Other **explanation** would be:
+> When you make a color lighter or darker, you shouldn’t just slide it up or down in brightness (value). You should also change the color’s hue a bit.
+
+> [!NOTE]
+> 🔅**Ambient light**🔅
+> This is the **background light** that is everywhere, which is not coming form one **direct** source!
+
+
+
+- We can **explore** this using **natural light**!
+
+
+- ☀️ Sunlight = warm → yellow / orange
+
+
+
+
 > [!NOTE]
 > Usually the program has some sort of this **color selection tool**!
+
+- Add here the example of when there is basic lighting technique taking place! 
 
 <div align="center">
     <img src="Color_Selection_Tools_In_General_Softwares.PNG" alt="Pixel tool" width="500" />
 </div>
 
 1. **HUE**, basically *What color it is?*
-2. **SATURATION**, basically *How strong is the color?*
-    - **Low** → `red color` + `low saturation` = `weak red color`!
-    - **High** → `red color` + `high saturation` = `weak red color`!
-3. **BRIGHTNESS**
+- **RED**, **GREEN** or **YELLOW**.
+    - Without providing any other information!
 
+2. **SATURATION**, basically *How strong is the color?*
+    - **Low** → `red color` + `low saturation` = `low virant red color`!
+    - **High** → `red color` + `high saturation` = ` very virant red color`!
+3. **BRIGHTNESS**, defines *lightness* and *darkness* how those two colors become!
+    - Ranging from full **black** and to **full color**!
 
 <div align="center">
     <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="300" height="350" />
@@ -199,8 +238,7 @@ Draw A Simple Character.
 </div>
 
 <details>
-<summary id="Assigment 02
-" open="true" alt="Pixel tool"> <b> Second assigment - my answer! </b> </summary>
+<summary id="assigment-02" open="true" alt="Pixel tool"> <b> Second assigment - my answer! </b> </summary>
 
 ```yaml
 Task as text:
@@ -214,8 +252,6 @@ Task as text:
 </div>
 
 </details>
-
-
 
 # Exporting Sprite Sheets.
 
