@@ -135,7 +135,6 @@ Draw A Simple Character.
     <img src="Next_Learning_Thing_Lightning_And_Colors.PNG" alt="Pixel tool" width="500"/>
 </div>
 
-
 1. We will be making **own color**, with the wheel. How to create own shading!
 
 - We will be trying to give **depth** using shading!
@@ -180,16 +179,17 @@ Draw A Simple Character.
 
 - Next we will be exploring the concept of **Hue shifting**!
 
-
 <p align="center">
     <div align="center">
         <img src="Hue_Shifting.png" alt="Pixel tool" width="300" />
     </div>
     <p align="center">
-        A <b>color technique</b> where, "<i>one changes the hue as values change, instead of just making color lighter and darker, can change <b>values</b> in the <b>color wheel</b></i>. <br> <br>
-        This makes the picture more <b>vibrant</b> look and better appeal!
+        A <b>color technique</b> where, "<i>one changes the hue as values change, instead of just making color lighter and darker. —instead of just making a color lighter or darker, you subtly slide it around the <b>color wheel</b>.
+        </i>. <br> <br>
     </p>
 </p>
+
+<br>
 
 > Other **explanation** would be:
 > When you make a color lighter or darker, you shouldn’t just slide it up or down in brightness (value). You should also change the color’s hue a bit.
@@ -198,15 +198,22 @@ Draw A Simple Character.
 > 🔅**Ambient light**🔅
 > This is the **background light** that is everywhere, which is not coming form one **direct** source!
 
+<div align="center">
+    <img src="Color_Oppositives.png" alt="Pixel tool" width="400" />
+</div>
 
+1. We can see that for **yellow**, the oppositive is the **violet**!
 
-- We can **explore** this using **natural light**!
+<div align="center">
+    <img src="We_Are_Exploring_The_Natural_Light_Steps.gif" alt="Pixel tool" width="500" />
+</div>
 
-
-- ☀️ Sunlight = warm → yellow / orange
-
-
-
+1. We can **explore** this concept using **ambient sunlight**, when there is difference in lighting:
+    - **Brighter**: ☀️ Sunlight = warm → **yellow** / **orange**.
+    - **Darker**: 🌑 It is oppositive color **purple**, this can be used the **shadows**.
+2. If we start from **red pixel**, we are making it **lighter** in every step, like it would be in ambient light. In the end it will be turning from **red** → **white**.
+3. We will be having **pleasant** gradient of color!
+    - Big question is, what kind of changes is being done to achieve such colors!
 
 > [!NOTE]
 > Usually the program has some sort of this **color selection tool**!
@@ -214,7 +221,7 @@ Draw A Simple Character.
 - Add here the example of when there is basic lighting technique taking place! 
 
 <div align="center">
-    <img src="Color_Selection_Tools_In_General_Softwares.PNG" alt="Pixel tool" width="500" />
+    <img src="Color_Selection_Tools_In_General_Softwares.PNG" alt="Pixel tool" width="600" />
 </div>
 
 1. **HUE**, basically *What color it is?*
@@ -228,10 +235,36 @@ Draw A Simple Character.
     - Ranging from full **black** and to **full color**!
 
 <div align="center">
-    <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="300" height="350" />
+    <img src="Hue_Shifting_Effect_Values.PNG" alt="Pixel tool" width="600" />
 </div>
 
-1. We can use p
+1. We can achieve **hue** shifting effect by changing values:
+    - **Hue** `H`.
+    - **Saturation** `S`.
+    - **Brightness** `B`.
+ Actions on every step:
+    - *HUE GETS MORE YELLOW*.
+    - *SATURATION DECREASES*.
+    - *BRIGHTNESS INCREASES*.
+
+<div align="center">
+    <img src="Hue_Shifting_Effect_Values_To_The_Opposite_Side.PNG" alt="Pixel tool" width="600" />
+</div>
+
+<div align="center">
+    <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="350" height="400" />
+</div>
+
+2. We can achieve **hue** shifting effect by changing values:
+    - **Hue** `H`.
+    - **Saturation** `S`.
+    - **Brightness** `B`.
+
+ Actions on every step:
+    - *Hue gets more purple*
+    - *Saturation increases*
+    - *Brightness decreases*
+
 
 <div align="center">
     <img src="Exercise_02_Hue_Shifted_Color.PNG" alt="Pixel tool" width="600"/>
