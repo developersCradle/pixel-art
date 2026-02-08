@@ -15,7 +15,11 @@
     <img src="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption.png" alt="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption" style="width:1600px;height:120px;"/>
 </p> -->
 
-# Pixel Art Master Course Beginner To Professional Freelance Description.
+<p align="center">
+    <img src="Pixel_Art_Master_Course_Beginner_To_Professional_Freelance_Caption.PNG" alt="Pixel Art Environments 2D Environment Design Animation Caption" style="width:1600px;height:110px;" />
+</p>
+
+
 
 <p align="center">
     <img id="Performance Optimization" src="Pixel_Art_Master_Course_Beginner_To_Professional_Freelance_Description.PNG" style=" width: 680px;">
@@ -49,7 +53,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Getting started.
+- [ ] [Section 01](#) - Getting started. ⚠️ In progress! ⚠️
 - [ ] [Section 02](#) - Lines and Shapes [B].
 - [ ] [Section 03](#) - Shading and lighting [B].
 - [ ] [Section 04](#) - Colours and textures [B].
@@ -82,7 +86,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 <p align="center">
     <img src="Pixel_Art_Environments_2D_Environment_Design_Animation_Caption.PNG" alt="Pixel Art Environments 2D Environment Design Animation Caption" style="width:1600px;height:110px;" />
 </p>
-
 
 <p align="center">
     <img id="Performance Optimization" src="Pixel_Art_Environments_2D_Environment_Design_Animation_Description.PNG" style=" width: 380px;">

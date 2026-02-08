@@ -152,7 +152,7 @@ Draw A Simple Character.
 1. We are using the `U` to switch here between, **filled rectangle** and **rectangle**.
 2. We are using **filled rectangle**!
 
-- Furthermore, we can add **New Empty Frame** as following.
+- Furthermore, are adding **New Empty Frame** as following.
 
 <div align="center">
     <img src="Adding_New_Frame_For_The_Animation_Tool.PNG" alt="Pixel tool" width="300" />
@@ -177,7 +177,9 @@ Draw A Simple Character.
     - You can see here **three** changes on the **color palette**!
         - Every change will a little bit darker!
 
-- Next we will be exploring the concept of **Hue shifting**!
+> [!NOTE]
+> First, let's explore **Hue shifting**!.
+
 
 <p align="center">
     <div align="center">
@@ -235,35 +237,41 @@ Draw A Simple Character.
     - Ranging from full **black** and to **full color**!
 
 <div align="center">
-    <img src="Hue_Shifting_Effect_Values.PNG" alt="Pixel tool" width="600" />
+    <img src="Hue_Shifting_Effect_Values.png" alt="Pixel tool" width="500" />
 </div>
 
 1. We can achieve **hue** shifting effect by changing values:
     - **Hue** `H`.
     - **Saturation** `S`.
     - **Brightness** `B`.
- Actions on every step:
-    - *HUE GETS MORE YELLOW*.
-    - *SATURATION DECREASES*.
-    - *BRIGHTNESS INCREASES*.
-
+    - In every step we are:
+        - *Hue gets more yellow*.
+        - *Saturation decreases*.
+        - *Brightness increases*.
+        
 <div align="center">
     <img src="Hue_Shifting_Effect_Values_To_The_Opposite_Side.PNG" alt="Pixel tool" width="600" />
 </div>
 
-<div align="center">
-    <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="350" height="400" />
-</div>
-
+1. We can do the same to the overside, but for the **shadows**!
 2. We can achieve **hue** shifting effect by changing values:
     - **Hue** `H`.
     - **Saturation** `S`.
     - **Brightness** `B`.
+    - In every step we are:
+        - *Hue gets more purple*.
+        - *Saturation increases*.
+            - This is *decrease* or *increase*, but these are personal purposes!
+        - *Brightness decreases*.
 
- Actions on every step:
-    - *Hue gets more purple*
-    - *Saturation increases*
-    - *Brightness decreases*
+- Todo palaa tähän 4:00 ei niin tärkeää
+- todo [This one](https://www.youtube.com/watch?v=yRCTL0PA4X0)
+
+<hr>
+
+<div align="center">
+    <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="350" height="400" />
+</div>
 
 
 <div align="center">
