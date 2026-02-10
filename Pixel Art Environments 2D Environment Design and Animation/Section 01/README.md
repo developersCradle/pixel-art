@@ -167,15 +167,19 @@ Draw A Simple Character.
 
 1. We can achieve the **dept** in the picture using the shades!
 
-- Example drawing **three** layers, by changing the colors.
+- We are **selecting** color, **without** using **color palette**.
 
 <div align="center">
-    <img src="We_Are_Choosing_The_Colors_From_Color_Palette.gif" alt="Pixel tool" width="300" />
+    <img src="We_Are_Exploring_Color_Selection_For_Different_Hue_Values.gif" alt="Pixel tool" width="400" />
 </div>
 
-1. **Beginners** usually changes the colors based on the *"hand"* felling!
-    - You can see here **three** changes on the **color palette**!
-        - Every change will a little bit darker!
+1. The `B` for **brightness**. Selecting from:
+    - Higher, the color will be **brighter**.
+    - Lower, the color will be **darker**.
+2. The `S` for **saturation**. Selecting from:
+    - Left, the color will be **stronger**.
+    - Right, the color will be **weaker**. 
+3. The `H` for the **hue**. We can select the **hue** color!
 
 > [!NOTE]
 > First, let's explore **Hue shifting**!.
@@ -267,12 +271,28 @@ Draw A Simple Character.
 - Todo palaa tähän 4:00 ei niin tärkeää
 - todo [This one](https://www.youtube.com/watch?v=yRCTL0PA4X0)
 
-<hr>
+
+> [!NOTE]
+> Next we will be exploring **instructors way** of doing the **hue shifting**!
+
+- In this example we will be drawing **three** layers, by changing the colors from **color picker**.
+
+- Todo do this, where two examples are being compared!
+
+<div align="center">
+    <img src="We_Are_Choosing_The_Colors_From_Color_Palette.gif" alt="Pixel tool" width="400" />
+</div>
+
+1. **Beginners** usually changes the colors based on the *"hand"* felling!
+    - You can see here **three** changes on the **color palette**!
+        - Every time there be a little bit darker color!
+
 
 <div align="center">
     <img src="LibreSprite_More_Tools_Even_More.PNG" alt="Pixel tool" width="350" height="400" />
 </div>
 
+1. **Eyedropper** too, hotkey for shortly is the `Alt`.
 
 <div align="center">
     <img src="Exercise_02_Hue_Shifted_Color.PNG" alt="Pixel tool" width="600"/>
